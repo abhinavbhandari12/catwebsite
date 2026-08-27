@@ -22,7 +22,7 @@ Forms — radio buttons, checkboxes, text input, and labels linked via id/for
 
 
 📸 Preview
-<img width="652" height="930" alt="image" src="https://github.com/user-attachments/assets/d341b477-d6dc-49a4-8532-53b8ed0f4989" />
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/d341b477-d6dc-49a4-8532-53b8ed0f4989" />
 
 
 
