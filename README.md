@@ -1,4 +1,4 @@
-CatPhotoApp
+CatPhotoWebsite
 
 A static HTML practice project built while learning core HTML elements — based on the freeCodeCamp CatPhotoApp exercise.
 
