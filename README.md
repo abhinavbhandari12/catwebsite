@@ -22,15 +22,16 @@ Forms — radio buttons, checkboxes, text input, and labels linked via id/for
 
 
 📸 Preview
-<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/d341b477-d6dc-49a4-8532-53b8ed0f4989" />
-
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/d341b477-d6dc-49a4-8532-53b8ed0f4989" />
 
 
 🚀 What I'd Improve Next
+
 Add CSS to style the layout and images
 Make the form actually functional with JavaScript
 Improve responsiveness for mobile screens
 
 📬 Contact
+
 Email: abhibhandari1208@gmail.com
 GitHub: github.com/abhinavbhandari12
