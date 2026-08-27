@@ -1,6 +1,6 @@
 ## CatPhotoWebsite
 
-A static HTML practice project built while learning core HTML elements — based on the freeCodeCamp CatPhotoApp exercise.
+-A static HTML practice project built while learning core HTML elements — based on the freeCodeCamp CatPhotoApp exercise.
 
 ## 🔗 Live Demo
 
@@ -11,14 +11,14 @@ HTML5
 
 ## 📖 About
 
-This project was built to practice core HTML structure and elements, including:
+-This project was built to practice core HTML structure and elements, including:
 
-Semantic tags (main, section, header, footer, figure)
-Links (a) with target="_blank"
-Images with descriptive alt text
-Ordered and unordered lists
-Text-level tags (em, strong)
-Forms — radio buttons, checkboxes, text input, and labels linked via id/for
+-Semantic tags (main, section, header, footer, figure)
+-Links (a) with target="_blank"
+-Images with descriptive alt text
+-Ordered and unordered lists
+-Text-level tags (em, strong)
+-Forms — radio buttons, checkboxes, text input, and labels linked via id/for
 
 
 ## 📸 Preview
@@ -28,11 +28,11 @@ Forms — radio buttons, checkboxes, text input, and labels linked via id/for
 
 ## 🚀 What I'd Improve Next
 
-Add CSS to style the layout and images
-Make the form actually functional with JavaScript
-Improve responsiveness for mobile screens
+-Add CSS to style the layout and images
+-Make the form actually functional with JavaScript
+-Improve responsiveness for mobile screens
 
 ## 📬 Contact
 
-Email: abhibhandari1208@gmail.com
-GitHub: github.com/abhinavbhandari12
+-Email: abhibhandari1208@gmail.com
+-GitHub: github.com/abhinavbhandari12
